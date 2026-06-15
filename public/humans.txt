@@ -1,0 +1,10 @@
+/* TEAM */
+Creator & Developer: Koushal Chintakayala
+Site: https://podify.vercel.app/
+Role: Founder, Designer, Engineer
+
+/* SITE */
+Name: Podify
+Description: AI-powered podcast & audio streaming platform.
+Standards: HTML5, CSS3, TypeScript
+Components: React, Vite, Tailwind CSS, shadcn/ui

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /studio
+
+Sitemap: https://podify.vercel.app/sitemap.xml
